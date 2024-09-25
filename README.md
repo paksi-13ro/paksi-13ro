@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-<img src="https://github.com/paksi-13ro/paksi-13ro/blob/main/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif" alt="The unlimited" width=600>
+<img src="https://github.com/paksi-13ro/paksi-13ro/blob/main/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="The unlimited" width=600 higth=100%>
